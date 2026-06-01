@@ -42,9 +42,9 @@ A Python-based mortgage closing scheduler that automates attorney assignment bas
 
 ## Sample Output
 
-Attorney: Kendra Robinson
-Fee: $225
-Type: Physical Closing
+- Attorney: Kendra Robinson
+- Fee: $225
+- Type: Physical Closing
 
 ## Author
 
