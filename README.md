@@ -40,6 +40,12 @@ A Python-based mortgage closing scheduler that automates attorney assignment bas
 - GUI interface
 - Export reports to CSV
 
+## Sample Output
+
+Attorney: Kendra Robinson
+Fee: $225
+Type: Physical Closing
+
 ## Author
 
 Joyel Jojo
