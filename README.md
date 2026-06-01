@@ -39,3 +39,7 @@ A Python-based mortgage closing scheduler that automates attorney assignment bas
 - Database integration
 - GUI interface
 - Export reports to CSV
+
+## Author
+
+Joyel Jojo
