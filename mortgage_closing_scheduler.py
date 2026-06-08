@@ -10,37 +10,37 @@ attorneys = {
 
     "Georgia": {
 
-        "Kendra Robinson": {
+        "Scott Reid": {
             "counties": ["Fulton", "Dekalb", "Cobb"],
             "fee": 225,
             "type": "Physical"
         },
 
-        "Leonid Sakson": {
+        "Spencer Smith": {
             "counties": ["Cherokee", "Fulton", "Forsyth"],
             "fee": 225,
             "type": "Physical"
         },
 
-        "Greg Stein": {
+        "Mathew Dave": {
             "counties": ["Chatham", "Effingham"],
             "fee": 250,
             "type": "Physical"
         },
 
-        "Conley Scott": {
+        "Rickson Kent": {
             "counties": ["Camden"],
             "fee": 180,
             "type": "Physical"
         },
 
-        "Jade Redmond": {
+        "Rio Paxton": {
             "counties": ["Richmond", "McDuffie"],
             "fee": 200,
             "type": "Physical"
         },
 
-        "Kimberly Arvelo": {
+        "Romario Cruz": {
             "counties": ["All"],
             "fee": 50,
             "type": "Phone"
@@ -50,37 +50,37 @@ attorneys = {
 
     "Massachusetts": {
 
-        "Peter Engles": {
+        "Korbin Scott": {
             "counties": ["Norfolk"],
             "fee": 175,
             "type": "Physical"
         },
 
-        "Jesse Limanek": {
+        "Silas Jonah": {
             "counties": ["Worcester", "Hampden"],
             "fee": 225,
             "type": "Physical"
         },
 
-        "Alexander Joyal": {
+        "Patrick John": {
             "counties": ["Bristol", "Plymouth"],
             "fee": 240,
             "type": "Physical"
         },
 
-        "David DeMella": {
+        "Adam Davis": {
             "counties": ["Middlesex", "Essex", "Suffolk"],
             "fee": 230,
             "type": "Physical"
         },
 
-        "Stephen Valente": {
+        "Nathan Smith": {
             "counties": ["Norfolk", "Plymouth", "Essex", "Middlesex"],
             "fee": 170,
             "type": "Physical"
         },
 
-        "Jesse Limanek": {
+        "Walter White": {
             "counties": ["All"],
             "fee": 30,
             "type": "Phone"
@@ -90,37 +90,37 @@ attorneys = {
 
     "South Carolina": {
 
-        "Christopher Jay": {
+        "Skyler Jones": {
             "counties": ["Richland", "Lexington", "Kershaw"],
             "fee": 190,
             "type": "Physical"
         },
 
-        "Lovee Watts": {
+        "Flynn David": {
             "counties": ["Greenville", "Pickens", "Spartanburg"],
             "fee": 225,
             "type": "Physical"
         },
 
-        "Harvey": {
+        "Gabriel Jesus": {
             "counties": ["Greenville", "Oconee", "Greenwood"],
             "fee": 225,
             "type": "Physical"
         },
 
-        "Melvin": {
+        "Alexis Puttelas": {
             "counties": ["York", "Lancaster", "Chester"],
             "fee": 200,
             "type": "Physical"
         },
 
-        "Douglas Laffin": {
+        "Aitana Watts": {
             "counties": ["Berkeley", "Charleston", "Dorchester", "Aiken"],
             "fee": 250,
             "type": "Physical"
         },
 
-        "David West": {
+        "Joel Jojo": {
             "counties": ["All"],
             "fee": 30,
             "type": "Phone"
@@ -130,25 +130,25 @@ attorneys = {
 
     "North Carolina": {
 
-        "Justin Merritt": {
+        "Samuel Peter": {
             "counties": ["Wake", "Johnston"],
             "fee": 150,
             "type": "Physical"
         },
 
-        "Carlosha Easton": {
+        "Natasha John": {
             "counties": ["Durham", "Wake"],
             "fee": 150,
             "type": "Physical"
         },
 
-        "Anthony Dilon": {
+        "Robert Johnson": {
             "counties": ["Guilford", "Forsyth"],
             "fee": 225,
             "type": "Physical"
         },
 
-        "Paul Ryan": {
+        "Paul David": {
             "counties": ["All"],
             "fee": 30,
             "type": "Phone"
@@ -157,7 +157,7 @@ attorneys = {
 
     "West Virginia": {
 
-        "Ari Carver": {
+        "Steve Smith": {
             "counties": ["All"],
             "fee": 30,
             "type": "Phone"
@@ -169,23 +169,23 @@ attorneys = {
 dnu_attorneys = {
 
     "First American Title": [
-        "Kendra Robinson",
-        "Christopher Jay"
+        "Scott Reid",
+        "Skyler Jones"
     ],
 
     "Liberty Title": [
-        "Leonid Sakson",
-        "Lovee Watts"
+        "Spencer Smith",
+        "Flynn David"
     ],
 
     "Old Republic Title": [
-        "David DeMella",
-        "Anthony Dilon"
+        "Adam Davis",
+        "Robert Johnson"
     ],
 
     "Fidelity National Title": [
-        "Stephen Valente",
-        "Harvey"
+        "Nathan Smith",
+        "Gabriel Jesus"
     ]
 
 }
@@ -428,3 +428,4 @@ while True:
 
     else:
         print("Invalid Choice")
+    
